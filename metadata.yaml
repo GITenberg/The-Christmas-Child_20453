@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2440
     wikipedia: http://en.wikipedia.org/wiki/Hesba_Stretton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20453#The-Christmas-Child
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2007-01-27'
 gutenberg_type: Text
