@@ -1,0 +1,35 @@
+_repo: The-Christmas-Child_20453
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Street, Kate, active 1880-1902
+    alias: Street, K. (Kate)
+    gutenberg_agent_id: '9308'
+    url: http://www.gutenberg.org/2009/agents/9308
+covers:
+- cover_type: archival
+  image_path: 20453-h/images/imgbackcover.jpg
+creator:
+  author:
+    agent_name: Stretton, Hesba
+    alias: Smith, Sarah
+    birthdate: 1832
+    deathdate: 1911
+    gutenberg_agent_id: '2440'
+    url: http://www.gutenberg.org/2009/agents/2440
+    wikipedia: http://en.wikipedia.org/wiki/Hesba_Stretton
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2007-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PZ'
+title: The Christmas Child
+url: http://www.gutenberg.org/ebooks/20453
